@@ -94,7 +94,7 @@ Caso queira manter os serviços e testes rodando enquanto desenvolve (e rodando 
 npm run test:watch:services
 ```
 
-Os logs do Serviço Web e Jest (dos testes) irão se misturar, então caso queira rodar eles de forma separada, abra dois terminais separados e rode o seguinte:
+Os logs do Serviço Web e Vitest (dos testes) irão se misturar, então caso queira rodar eles de forma separada, abra dois terminais separados e rode o seguinte:
 
 ```bash
 # Terminal 1
